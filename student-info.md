@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name:GOLCONDA DHANUSH KUMAR
+- Roll Number:160124733240
+- Section:CSE-4
+- GitHub Username:gdhanushkumar07
